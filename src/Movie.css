@@ -17,7 +17,7 @@
     text-overflow: ellipsis;
 }
 
-.Movie__Column:ladt-child{
+.Movie__Column:last-child{
     padding: 20px 0;
     width: 60%;
 }
