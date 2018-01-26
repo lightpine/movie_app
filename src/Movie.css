@@ -13,7 +13,7 @@
 
 .Movie__Column{
     width:30%;
-    box-sizing:border-box;
+    box-sizing: border-box;
     text-overflow: ellipsis;
 }
 
